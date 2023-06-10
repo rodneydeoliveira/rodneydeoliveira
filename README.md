@@ -7,7 +7,7 @@
 </div>
 
 <div style = "display: inline_block"><br>
-   <img align="center" alt="Rod-Py" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"</img>
+   <img align="center" alt="Rod-Py" height="40" width="80" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"</img>
    <img align="center" alt="Rod-Jp" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"</img>
    <img align="center" alt="Rod-Pd" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"</img>
    <img align="center" alt="Rod-Jv" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"</img>
