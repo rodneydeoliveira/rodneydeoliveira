@@ -13,5 +13,8 @@
    <img align="center" alt="Rod-Jv" height="80" width="90" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"</img>
    <img align="center" alt="Rod-C-sh" height="80" width="90" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"</img>
    <img align="center" alt="Rod-Dj" height="80" width="90" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"</img>
+   <img align="center" alt="Rod-html" height="80" width="90" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"</img>
+   <img align="center" alt="Rod-css" height="80" width="90" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"</img>
+   <img align="center" alt="Rod-Js" height="80" width="90" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"</img>
 
    </div>
