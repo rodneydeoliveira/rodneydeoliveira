@@ -1,7 +1,7 @@
 # Olá, eu sou o Rod!
 
 
-Apaixonado por tecnologia, entusiasta e um eterno estudante de programação. Acredito que através da Tecnologia podemos criar um mundo melhor.
+Apaixonado por tecnologia, entusiasta e um eterno estudante de programação. Acredito que através da Tecnologia podemos tornar um mundo melhor.
    
 <div align="center">
   <a href="https://www.linkedin.com/in/rodney-lucas-vieira-de-oliveira-/">
